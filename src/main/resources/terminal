@@ -1,2 +1,2 @@
 
-spring init --dependencies=web,data-jpa,mysql --package-name=com.online.cab user-management
+    spring init --dependencies=web,data-mysql --package-name=com.cab.ride cab-ride-service
